@@ -1,6 +1,6 @@
 # PayRevive — AI Revenue Recovery
 
-> **Razorpay Buildathon 2026 — Track 03 submission**
+> This project was built for **Track 03: AI Revenue Recovery** of the Razorpay Buildathon 2026.
 
 PayRevive is an intelligent, closed-loop payment-failure recovery system. It diagnoses why a payment failed, validates a recovery strategy through a hard-coded safety policy engine, and then executes the safest possible action — all without requiring a live LLM key. An optional Gemini integration upgrades the rule engine to live AI reasoning when configured.
 
@@ -299,7 +299,7 @@ ai-revenue-recovery/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/ai-revenue-recovery.git
+git clone https://github.com/Piyush7570/ai-revenue-recovery.git
 cd ai-revenue-recovery
 ```
 
